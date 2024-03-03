@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/f4_moduletest_feb.git/static/css/main.bb7ce0f5.css",
+    "main.js": "/f4_moduletest_feb.git/static/js/main.0e3e7d37.js",
+    "static/js/453.bba2651a.chunk.js": "/f4_moduletest_feb.git/static/js/453.bba2651a.chunk.js",
+    "index.html": "/f4_moduletest_feb.git/index.html",
+    "main.bb7ce0f5.css.map": "/f4_moduletest_feb.git/static/css/main.bb7ce0f5.css.map",
+    "main.0e3e7d37.js.map": "/f4_moduletest_feb.git/static/js/main.0e3e7d37.js.map",
+    "453.bba2651a.chunk.js.map": "/f4_moduletest_feb.git/static/js/453.bba2651a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb7ce0f5.css",
+    "static/js/main.0e3e7d37.js"
+  ]
+}
